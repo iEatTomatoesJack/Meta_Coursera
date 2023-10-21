@@ -1,8 +1,12 @@
+import "./CSS/Footer.css"
+
 function Footer (){
     return (
-        <footer>
-            <h1>Footer</h1>
-        </footer>
+        <div className="footer">
+            <footer>
+                <h4 className="copyright"><span>&copy; 2023-2023</span></h4>
+            </footer>
+        </div>
     );
 }
 
