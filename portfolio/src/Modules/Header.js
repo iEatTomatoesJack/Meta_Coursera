@@ -10,6 +10,7 @@ function Header (){
                 <img className="photo" src={pic} alt="Jack's Photo"/>
                 <h3 className="portfolio">PORTFOLIO</h3>
             </header>
+            <hr/>
         </div>
     );
 }
