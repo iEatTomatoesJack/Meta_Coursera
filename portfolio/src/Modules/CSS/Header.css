@@ -1,3 +1,18 @@
-.Header {
-    background-color: 272727;
-  };
+.header {
+    margin: 0;
+    text-align: center;
+}
+.name, .portfolio{
+    color: #ff652f;
+    font-size: 5vh;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    font-variant: small-caps;
+}
+.portfolio{
+    font-size: 3vh;
+}
+.photo{
+    width: 8vw;
+    border-radius: 50%;
+}
